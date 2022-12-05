@@ -21,6 +21,6 @@ function notas(nota) {
   }
 };
 
-notas(193);
+// notas(193);
 
 // assert(notas(92)=== "A") | teste simples: Mudo os console.log pra return
